@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Injury_ID</Data></Cell>
+			<Cell><Data ss:Type="String">Type</Data></Cell>
+			<Cell><Data ss:Type="String">Severity</Data></Cell>
+			<Cell><Data ss:Type="String">Recovery_Time</Data></Cell>
+			<Cell><Data ss:Type="String">Player_ID</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">42</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">43</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="Number">44</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="Number">45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+			<Cell><Data ss:Type="String">Muscle Strain</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">46</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">47</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Mild</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">48</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+			<Cell><Data ss:Type="String">Sprained Ankle</Data></Cell>
+			<Cell><Data ss:Type="String">Severe</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">49</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="String">Concussion</Data></Cell>
+			<Cell><Data ss:Type="String">Moderate</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

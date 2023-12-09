@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Club_ID</Data></Cell>
+			<Cell><Data ss:Type="String">Name</Data></Cell>
+			<Cell><Data ss:Type="String">Country</Data></Cell>
+			<Cell><Data ss:Type="String">Division</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Manchester United</Data></Cell>
+			<Cell><Data ss:Type="String">England</Data></Cell>
+			<Cell><Data ss:Type="String">Premier League</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Real Madrid</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="String">La Liga</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Bayern Munich</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="String">Bundesliga</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Paris Saint-Germain</Data></Cell>
+			<Cell><Data ss:Type="String">France</Data></Cell>
+			<Cell><Data ss:Type="String">Ligue 1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Juventus</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="String">Serie A</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Barcelona</Data></Cell>
+			<Cell><Data ss:Type="String">Spain</Data></Cell>
+			<Cell><Data ss:Type="String">La Liga</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Liverpool</Data></Cell>
+			<Cell><Data ss:Type="String">England</Data></Cell>
+			<Cell><Data ss:Type="String">Premier League</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="String">AC Milan</Data></Cell>
+			<Cell><Data ss:Type="String">Italy</Data></Cell>
+			<Cell><Data ss:Type="String">Serie A</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Ajax</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands</Data></Cell>
+			<Cell><Data ss:Type="String">Eredivisie</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Borussia Dortmund</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="String">Bundesliga</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
